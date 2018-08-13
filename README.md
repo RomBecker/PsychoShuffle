@@ -1,0 +1,2 @@
+# PsychoShuffle
+Randomizer for Psycho
